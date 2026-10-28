@@ -1,0 +1,16 @@
+# Node.js
+erp-server/node_modules/
+erp-server/.env
+
+# Flutter
+erp-client/.dart_tool/
+erp-client/.flutter-plugins
+erp-client/.flutter-plugins-dependencies
+erp-client/.pub-cache/
+erp-client/.pub/
+erp-client/build/
+erp-client/.env
+
+# OS files
+.DS_Store
+Thumbs.dberp-server/uploads/
